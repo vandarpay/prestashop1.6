@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Vandar</name>
+	<displayName><![CDATA[درگاه پرداخت Vandar]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[ماژول رایگان درگاه پرداخت Vandar]]></description>
+	<author><![CDATA[vandar.io]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[آیا مطمئن هستید می خواهید جزئیات را حذف کنید ؟]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
